@@ -5,4 +5,4 @@
 **Código:** A00054648
 
 ## Descripción  
-Corta descripción de loa prendido 
+Corta descripción de lo aprendido 
