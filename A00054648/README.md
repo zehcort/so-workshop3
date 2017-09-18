@@ -23,6 +23,6 @@ Ahora encontrará la profundización de 5 de esas llamadas al sistema y por qué
 sendTo() es usado para transmitir un mensaje por medio de un socket. Dentro de sus parámetros están sockfd, msg, len, flags, to, tolen.
 Recvfrom es usado, por el contrario, para recibir datos por medio de un socket. Dentro de los parámetros están sockfd, buf, len, flags, struct sockaddr from, fromlen.
 
-[1]: 1.png
-[2]: 2.png
+[1]: 1.PNG
+[2]: 2.PNG
 
